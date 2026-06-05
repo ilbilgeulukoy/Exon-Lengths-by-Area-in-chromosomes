@@ -1,4 +1,9 @@
-Exon Lengths by Area in chr7
+## Interactive Shiny App
+
+You can explore the interactive Shiny dashboard here:
+
+🔗 [Open the Shiny App](https://r7ogmxilbilge.shinyapps.io/shiny-app/)
+
 
 This repository contains an R Markdown report "Exon Lengths by Area in chr7". The report explores genomic features of chromosome 7 (chr7) using a .tsv file containing gene and transcript data. 
 
